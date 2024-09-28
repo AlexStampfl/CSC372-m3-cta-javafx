@@ -26,5 +26,3 @@ The application uses a top bar menu with a dropdown (or menu bar) containing the
 ## Requirements
 - JavaFX SDK
 - Java Development Kit (JDK)
-
-Enjoy your new JavaFX user interface!
